@@ -10,6 +10,7 @@ namespace Dylan_Gomer_Hello_Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Git World");
         }
     }
 }
